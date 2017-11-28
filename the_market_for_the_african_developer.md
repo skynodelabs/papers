@@ -24,7 +24,7 @@ A cursory understanding of distributed systems and their properties is an import
 The geometry of the network (more correctly, _topology_) of the Internet is [distributed](https://www.youtube.com/watch?v=Dxcc6ycZ73M). Natural approximations of distributed systems can be found in many biological systems like the `brainless slime mold` and `schools of fish` which all evidently predate the Internet. The fundamental computing unit of a distributed network is a node. The figure below, image c shows what a distributed network looks like, relative to other forms of network topology.  For simplicity, we shall go ahead and conflate human operators and intelligent (and dumb) devices as nodes. What does this arrangement of transacting participants afford its users? 
 
 <p>
-<img src="resx\centralized-decentralized-distributed.jpeg">
+<img src="resx/centralized-decentralized-distributed.jpeg">
 <p>
 
 - there is `no single point of failure`; this design property may seem inappropriately named. It does not imply that there is no single point of failure. It means that no single point of failure on a node or cluster of nodes can become an existential threat to the entire network. If one of Netflix's many web services falter, this event does not stop the interested reader from looking up extra materials on distributed systems on Google. Netflix services may be down but Google will respond to your query. Netflix and Google have millions of nodes deployed on the Internet. 
