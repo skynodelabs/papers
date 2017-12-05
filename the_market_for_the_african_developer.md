@@ -13,10 +13,10 @@ Here are the _fascinating_ ideas these entities have propagated across digital m
 
 We hesitate to include private perspectives from closed messaging forums as they are not open to public scrutiny and the full context of comments and rebuttals may never be appreciated. 
 
-  ### Readership
- This work, apart from being a response to the prevailing narratives in certain quarters around West Africa, is directed at an audience interested in understanding issues beyond mere instances and anecdotes. The no-time, short-attention-span skimmer is referred to the many resources available online specially packaged to meet their understandably unique reading requirements. 
+### Readership
+This work, apart from being a response to the prevailing narratives in certain quarters around West Africa, is directed at an audience interested in understanding issues beyond mere instances and anecdotes. The no-time, short-attention-span skimmer is referred to the many resources available online specially packaged to meet their understandably unique reading requirements. 
 
- In order to work with the right context for responding to the concerns raised, some elementary concepts governing the subject matter will be introduced and explained. In places where practice diverges from theory, these shall be noted accordingly. We have put in a lot of effort to keep things _as simple as possible but not simpler_ (useful mathematical analyses, for instance, have been skipped). Developing the main ideas from first principles and staying as close to primary sources as possible, let us begin.
+In order to work with the right context for responding to the concerns raised, some elementary concepts governing the subject matter will be introduced and explained. In places where practice diverges from theory, these shall be noted accordingly. We have put in a lot of effort to keep things _as simple as possible but not simpler_ (useful mathematical analyses, for instance, have been skipped). Developing the main ideas from first principles and staying as close to primary sources as possible, let us begin.
 
 ## Distributed Networks and Scale
 A cursory understanding of distributed systems and their properties is an important mental model for making sense of the issues at hand.
