@@ -14,7 +14,7 @@
     - [Open Source Philosophy and the Theory of the Firm](#open-source-philosophy-and-the-theory-of-the-firm)
         - [The Agitations of the Firm](#the-agitations-of-the-firm)
         - [Section Summary](#section-summary-1)
-    - [General Recommendations: the Software Developer and the Firm](#general-recommendations-the-software-developer-and-the-firm)
+    - [General Recommendations](#general-recommendations)
     - [Conclusion](#conclusion)
     - [References](#references)
 
@@ -84,7 +84,7 @@ In approaching this problem of joining and playing successfully in the network, 
 ### Section Summary
 While the general cost of conducting production activites remains at the center of many business decisions, open source production models present a different perspective on general considerations. At the core of this perspective is a costs and benefits analysis from the point of view of the individual open source software developer. 
 
-## General Recommendations: the Software Developer and the Firm
+## General Recommendations
 We now provide some general guidance on how to navigate the global software marketplace and how to think about the evolving relationship between the software developer and the firm. This is by no means an exhaustive set of recommendations. We encourage the interested reader to fork and extend this work in the spirit of the open source movement.
 
 1. Firms should begin to internalize the fact that they are no less plugged into the proverbial matrix than they are now part of a planetary scale network. This realization will bring the mental shift they require to correctly evaluate opportunities and risks as they deal with the agents known as software developers. To distill this point further, the market of the African software developer is the world, therefore any thought process that assumes the African software developer will persist in some form of ignorance about the potential scale of her reach, limiting her to only local market realities, will be blindsided.
